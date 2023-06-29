@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc3cc6c2.css",
+    "main.js": "/static/js/main.c533c506.js",
+    "static/js/787.a82a7d7d.chunk.js": "/static/js/787.a82a7d7d.chunk.js",
+    "static/media/BusinessLaw.png": "/static/media/BusinessLaw.29d2d7b792079dbe3178.png",
+    "static/media/BusinessLaw1.png": "/static/media/BusinessLaw1.c4c2049407e20cc2764b.png",
+    "static/media/LandLord_Disputes.png": "/static/media/LandLord_Disputes.f405ce43535e95d48edb.png",
+    "static/media/preson.png": "/static/media/preson.107140c4ec6cfd76f02e.png",
+    "static/media/RealEstateLaw.png": "/static/media/RealEstateLaw.950b4f00e6db5b6242d5.png",
+    "static/media/Elder_Abuse.png": "/static/media/Elder_Abuse.8f194fd9ec7a9526f003.png",
+    "static/media/PartnershipLAW.png": "/static/media/PartnershipLAW.d03cb69cb551950b9357.png",
+    "static/media/Devon Lane.png": "/static/media/Devon Lane.caf7021610f60a05db59.png",
+    "static/media/Robert Fox.png": "/static/media/Robert Fox.ef1e980063c922fa32d4.png",
+    "static/media/Jane Cooper.png": "/static/media/Jane Cooper.00b0d5d56d545142c408.png",
+    "static/media/insta.svg": "/static/media/insta.92dc834f922cb5c55c49f8b1adad76bc.svg",
+    "static/media/Down 1.svg": "/static/media/Down 1.932a582e1fdbbbd850716eb7956db255.svg",
+    "static/media/pin.svg": "/static/media/pin.28671b92441522d84edc0baf89dd0df1.svg",
+    "static/media/Gift 1.svg": "/static/media/Gift 1.5f94a17352603ad2ec6c2c93f31be848.svg",
+    "static/media/titwer.svg": "/static/media/titwer.f6dc18a20ed2fc84c9511d63cc2e9472.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.46a214cd4c1bd34fab70155021af4bfd.svg",
+    "main.cc3cc6c2.css.map": "/static/css/main.cc3cc6c2.css.map",
+    "main.c533c506.js.map": "/static/js/main.c533c506.js.map",
+    "787.a82a7d7d.chunk.js.map": "/static/js/787.a82a7d7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3cc6c2.css",
+    "static/js/main.c533c506.js"
+  ]
+}
