@@ -1,0 +1,83 @@
+/* .accordions__container,
+.accordions__question {
+  border: 1px solid red;
+} */
+
+.accordions__container {
+  width: 38.8125rem;
+
+  margin-top: 5rem;
+
+  background-color: transparent;
+}
+.accordions__que {
+  background-color: transparent;
+
+  width: 100%;
+  height: 5rem;
+
+  padding: 1rem;
+  text-align: start;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  border: none;
+  border-top: 1px solid rgba(128, 128, 128, 0.4);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+  outline: none;
+}
+
+.accordions__que .accordion-button {
+  width: 1.75rem;
+  height: 1.75rem;
+
+  border-radius: 28px;
+  background: #e3b748;
+
+  border: none;
+  outline: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.accordions__question h3 {
+  width: 100%;
+
+  color: #fff;
+  font-size: 1.5rem;
+
+  font-weight: 600;
+  line-height: 1.5rem;
+}
+
+.accordions__answer {
+  width: 100%;
+
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 162.523%;
+  opacity: 0.30000001192092896;
+  padding: 0.5rem 1rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .accordions__container {
+    width: 100%;
+
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .accordions__question h3 {
+    font-size: 1rem;
+  }
+
+  .accordions__answer {
+    font-size: 0.9rem;
+  }
+}

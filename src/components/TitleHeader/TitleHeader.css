@@ -1,0 +1,22 @@
+.titleHeader {
+  font-size: 3.375rem;
+  font-weight: 600;
+  line-height: 143.023%;
+}
+
+@media screen and (max-width: 768px) {
+  .titleHeader {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (max-width: 486px) {
+  .titleHeader {
+    font-size: 1.6rem;
+  }
+}
+@media screen and (max-width: 375px) {
+  .titleHeader {
+    font-size: 1.45rem;
+  }
+}

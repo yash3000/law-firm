@@ -1,0 +1,37 @@
+/* .ourteam__container,
+.ourteam__info,
+.ourteam__proflie {
+  border: 1px solid red;
+} */
+
+
+.ourteam__info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 1rem 3rem;
+}
+
+.ourteam__proflie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  gap: 10px;
+  margin: 2rem 2rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .ourteam__container {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .ourteam__proflie {
+    gap: 0px;
+    margin: 1rem 0rem;
+  }
+}

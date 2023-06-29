@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* CSS variables for reusablity across all files (including above imported) */
+:root {
+  --primary-color: #121212;
+  --bg-color: #1d1d1d;
+  --secondary-color: #e3b748;
+  --color-white: #fff;
+  --inter-family: 'Inter', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  color: var(--color-white);
+
+  background-color: var(--primary-color);
+  font-family: var(--inter-family);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style: none;
+}
+
+.swiper-slide {
+  width: auto !important;
+}

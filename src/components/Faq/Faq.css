@@ -1,0 +1,42 @@
+/* .faq__container,
+.faq__info,
+.faq__accordion {
+  border: 1px solid red;
+} */
+
+.faq__container {
+  margin-inline: 2rem;
+  margin-bottom: 5rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.faq__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  margin: 1rem;
+
+  padding: 0 2rem;
+}
+.faq__accordion {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+@media screen and (max-width: 1024px) {
+  .faq__container {
+    flex-direction: column;
+  }
+  .faq__info {
+    text-align: center;
+  }
+  .faq__accordion {
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 425px) {
+}
